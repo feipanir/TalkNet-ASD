@@ -1,0 +1,1 @@
+python trainTalkNet.py --dataPathAVA AVADataPath --evaluation --evalModelPath ./exps/exp1/model/model_0001.model

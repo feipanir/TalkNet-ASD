@@ -1,0 +1,1 @@
+python trainTalkNet.py --dataPathAVA AVADataPath --savePath exps/jiaming
